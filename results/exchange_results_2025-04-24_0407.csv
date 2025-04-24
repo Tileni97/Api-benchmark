@@ -1,0 +1,10 @@
+API,Latency (ms),Status Code,Success
+Gate.io,2008.29,200,True
+Binance,698.46,200,True
+Kraken,640.51,200,True
+Gate.io,1861.81,200,True
+Binance,606.71,200,True
+Kraken,432.54,200,True
+Gate.io,1793.99,200,True
+Binance,586.9,200,True
+Kraken,421.6,200,True

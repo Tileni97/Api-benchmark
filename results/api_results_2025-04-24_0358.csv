@@ -1,0 +1,13 @@
+API,Latency (ms),Status Code,Success,Type
+Gate.io,2065.26,200,True,Exchange
+Binance,689.5,200,True,Exchange
+Kraken,483.83,200,True,Exchange
+CoinGecko,339.13,200,True,Aggregator
+Gate.io,1849.45,200,True,Exchange
+Binance,579.41,200,True,Exchange
+Kraken,411.47,200,True,Exchange
+CoinGecko,260.97,200,True,Aggregator
+Gate.io,1798.17,200,True,Exchange
+Binance,618.94,200,True,Exchange
+Kraken,425.1,200,True,Exchange
+CoinGecko,324.37,200,True,Aggregator
